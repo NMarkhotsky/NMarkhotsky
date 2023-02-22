@@ -6,7 +6,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=nmarkhotsky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false"  width="360" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nmarkhotsky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" width="360" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nmarkhotsky&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=false" height="150" width="360" alt="languages graph"  />
 
 
 ###
