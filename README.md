@@ -2,13 +2,13 @@
 <!-- ### **Front-end web developer**  -->
 
 [![Codewars Badge](https://www.codewars.com/users/NMarkhotsky/badges/small)](https://www.codewars.com/users/NMarkhotsky) 
+###
 
 
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nmarkhotsky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&bg_color=00000000&text_color=ffffff"  width="360" alt="stats graph"  />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nmarkhotsky&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=false&bg_color=00000000&text_color=ffffff" height="150" width="360" alt="languages graph"  />
 
-<!-- [![wakatime](https://wakatime.com/badge/user/f6b4df58-b373-4d0a-8291-4f88a0d7b982.svg)](https://wakatime.com/@f6b4df58-b373-4d0a-8291-4f88a0d7b982) -->
 ###
 
 
@@ -24,16 +24,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
-
-###
-
-###
-
-###
 </div>
 
-
 ###
+[![wakatime](https://wakatime.com/badge/user/f6b4df58-b373-4d0a-8291-4f88a0d7b982.svg)](https://wakatime.com/@f6b4df58-b373-4d0a-8291-4f88a0d7b982)
+
 
 
 <!--
