@@ -1,19 +1,21 @@
-<h1 align="left">Hey 👋</h1>
-<!-- ### **Front-end web developer**  -->
+<h1 align="center">Hey 👋</h1>
 
-[![Codewars Badge](https://www.codewars.com/users/NMarkhotsky/badges/small)](https://www.codewars.com/users/NMarkhotsky) 
-###
-
-
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nmarkhotsky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&bg_color=00000000&text_color=d2d2d2"  width="360" alt="stats graph"  />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nmarkhotsky&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=false&bg_color=00000000&text_color=d2d2d2" height="150" width="360" alt="languages graph"  />
+<div align="center">
+<a href="https://www.codewars.com/users/NMarkhotsky">
+  <img src="https://www.codewars.com/users/NMarkhotsky/badges/small" alt="Total" />
+</a>
+</div>
 
 ###
 
+<div align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nmarkhotsky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&bg_color=00000000&text_color=d2d2d2" height="150"  alt="stats graph"  />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nmarkhotsky&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=false&bg_color=00000000&text_color=d2d2d2" height="150"  alt="languages graph"  />
+</div>
 
+###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -27,7 +29,22 @@
 </div>
 
 ###
-[![wakatime](https://wakatime.com/badge/user/f6b4df58-b373-4d0a-8291-4f88a0d7b982.svg)](https://wakatime.com/@f6b4df58-b373-4d0a-8291-4f88a0d7b982)
+
+<div align="center">
+<a href="https://wakatime.com/@f6b4df58-b373-4d0a-8291-4f88a0d7b982">
+  <img src="https://wakatime.com/badge/user/f6b4df58-b373-4d0a-8291-4f88a0d7b982.svg" alt="Total time coded since Jan 26 2023" />
+</a>
+</div>
+
+###
+
+
+<div align="center">
+  <a href="https://github.com/nmarkhotsky">
+    <img src="https://komarev.com/ghpvc/?username=nmarkhotsky&color=blue&style=flat)" />
+  </a>
+</div>
+<!-- [![wakatime](https://wakatime.com/badge/user/f6b4df58-b373-4d0a-8291-4f88a0d7b982.svg)](https://wakatime.com/@f6b4df58-b373-4d0a-8291-4f88a0d7b982) -->
 
 <!-- <details>
 <p align="center">
@@ -46,12 +63,7 @@
 </p>
 </details> -->
 
-<!-- <p align="center">
-  <a href="https://github.com/nmarkhotsky">
-    <img src="https://komarev.com/ghpvc/?username=nmarkhotsky&color=blue&style=flat)" />
-  </a>
-</p>
- -->
+
 <!--
 **NMarkhotsky/NMarkhotsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
